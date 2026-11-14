@@ -1,7 +1,7 @@
 # 10125267_TRANDUCQUANG
 Bai tap CTDL&amp;GT - Tran Duc Quang - 10125N.1
 # Bài tập CTDL&GT – 211131
-- Họ tên: Nguyễn Văn A
+- Họ tên: Trần Đức Quang
 - MSV: 10125267
 - Lớp: 10125N.1
 
